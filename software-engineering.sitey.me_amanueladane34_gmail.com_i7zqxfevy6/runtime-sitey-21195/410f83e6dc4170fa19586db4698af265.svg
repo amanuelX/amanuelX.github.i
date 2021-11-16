@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="116px" viewBox="0 0 72 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g fill="#FFFFFF" fill-rule="nonzero">
+    <g id="Dark" opacity="0">
+      <polygon points="36 15 36 58 72 43 72 0"></polygon>
+      <polygon points="0 73 0 116 36 101 36 58"></polygon>
+    </g>
+    <g id="Medium" opacity="0.15">
+      <polygon points="36 58 72 73 72 58"></polygon>
+      <polygon points="36 0 0 0 36 15 72 0"></polygon>
+      <polygon points="36 58 0 73 0 58"></polygon>
+      <polygon points="5.5 45.3 0 0 0 43"></polygon>
+      <polygon points="41.5 103.3 36 58 36 101"></polygon>
+      <polygon points="36 58 72 58 72 47"></polygon>
+      <polygon points="5.5 45.3 0 47 0 58 36 58"></polygon>
+      <polygon points="41.5 103.3 0 116 36 116 72 116"></polygon>
+    </g>
+    <g id="Light" opacity="0.35">
+      <polygon points="0 0 5.5 45.3 36 58 36 15"></polygon>
+      <polygon points="36 58 41.5 103.3 72 116 72 73"></polygon>
+    </g>
+  </g>
+</svg>
